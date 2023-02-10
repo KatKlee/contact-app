@@ -9,6 +9,8 @@ Die Elemente und den Aufbau habe ich einem Beispiel entsprechend umgesetzt, jedo
 Dieses Projekt ist noch in Bearbeitung.
 
 *A digital phone book as an app for smartphones. This project includes frontend and backend development, which is linked to a MongoDB database.
-The app includes functions such as a search, setting favourites and adding and editing contacts.
-I implemented the elements and the structure according to an example, but adapted the design (colours, font and shapes) according to my ideas.
+
+*The app includes functions such as a search, setting favourites and adding and editing contacts.*
+
+*I implemented the elements and the structure according to an example, but adapted the design (colours, font and shapes) according to my ideas.
 This project is still in progress.*
