@@ -12,6 +12,8 @@ Version 2.0:
 – ein Alphabet-Register in der Listenansicht als Leiste am rechten Bildrand zur Schnellnavigation  
 – alphabetische Unterteilung der Namensliste durch den jeweiligen Buchstabe der beginnenden Buchstabenkategorie
 
+/
+
 *A digital phone book as an app for smartphones. This project includes frontend and backend development, which is linked to a MongoDB database.*
 
 *The app includes functions such as a search, setting favourites and adding and editing contacts.*
