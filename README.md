@@ -14,6 +14,8 @@ Version 2.0:
 – ein Alphabet-Register in der Listenansicht als Leiste am rechten Bildrand zur Schnellnavigation  
 – alphabetische Unterteilung der Namensliste durch den jeweiligen Buchstabe der beginnenden Buchstabenkategorie
 
+Das Backend von diesem Projekt: https://github.com/KatKlee/contact-app-server
+
 /
 
 *A digital phone book as an app for smartphones. This project includes frontend and backend development, which is linked to a MongoDB database.*
@@ -29,3 +31,5 @@ Version 2.0:
 *Version 2.0:  
 – an alphabet index in the list view as a bar on the right side of the screen for quick navigation  
 – alphabetical subdivision of the name list by the respective letter of the beginning letter category*
+
+*The Backend from this project: https://github.com/KatKlee/contact-app-server*
